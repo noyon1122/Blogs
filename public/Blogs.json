@@ -4,7 +4,7 @@
       "cover": "https://i.ibb.co.com/Gkg7KgT/food.jpg",
       "title": "The Secret Ingredient",
       "author": "John Doe",
-      "author_img": "https://i.ibb.co.com/swZfHpT/man5.jpg",
+      "author_img": "https://i.ibb.co.com/W2FpvqS/man1.jpg",
       "posted_date": "2024-09-20",
       "reading_time": 5,
       "hashtag": "#food"
@@ -14,7 +14,7 @@
       "cover": "https://i.ibb.co.com/Tm3bCVR/cooking.jpg",
       "title": "Cooking Made Easy",
       "author": "Jane Smith",
-      "author_img": "https://i.ibb.co.com/yXpLC2n/man4.jpg",
+      "author_img": "https://i.ibb.co.com/b6kYgRG/man2.jpg",
       "posted_date": "2024-08-15",
       "reading_time": 8,
       "hashtag": "#cooking"
@@ -34,7 +34,7 @@
       "cover": "https://i.ibb.co.com/ZHrCGXr/health.jpg",
       "title": "Healthy Eating on a Budget",
       "author": "Michael Lee",
-      "author_img": "https://i.ibb.co.com/W2FpvqS/man1.jpg",
+      "author_img": "https://i.ibb.co.com/yXpLC2n/man4.jpg",
       "posted_date": "2024-06-18",
       "reading_time": 7,
       "hashtag": "#health"
@@ -44,14 +44,13 @@
       "cover": "https://i.ibb.co.com/ySx3hR0/baking.jpg",
       "title": "The Art of Baking",
       "author": "Emily Davis",
-      "author_img": "https://example.com/author5.jpg",
+      "author_img": "https://i.ibb.co.com/swZfHpT/man5.jpg",
       "posted_date": "2024-05-25",
       "reading_time": 9,
       "hashtag": "#baking"
     }
   ]
-
-
+  
 
 
 
